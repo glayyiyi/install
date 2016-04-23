@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://120.25.211.222/maiqing/moretrade/app_install/MoreTrade.ipa</string>
+					<string>http://120.25.211.222/maiqing/moretradeApp/MoreTrade.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://120.25.211.222/maiqing/moretrade/app_install/iphone@2x.png</string>
+					<string>http://120.25.211.222/maiqing/moretradeApp/iphone@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://120.25.211.222/maiqing/moretrade/app_install/iphone@2x.png</string>
+					<string>http://120.25.211.222/maiqing/moretradeApp/iphone@2x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.maiqing-tech.moretrade</string>
+				<string>com.mqtech.moretrade</string>
 				<key>bundle-version</key>
 				<string>1.1</string>
 				<key>kind</key>
